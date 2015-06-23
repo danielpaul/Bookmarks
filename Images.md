@@ -5,3 +5,8 @@
 * http://allthefreestock.com/
 * http://www.pexels.com/
 * http://zoommyapp.com/
+
+
+
+Videos:
+http://www.coverr.co/
