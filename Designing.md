@@ -3,4 +3,4 @@ http://colorhunt.co/
 
 http://uigarage.net/
 
-collectui.com
+http://collectui.com
