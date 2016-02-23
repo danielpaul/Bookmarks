@@ -6,3 +6,8 @@
 
 
 jQuery Plugins: http://www.unheap.com/
+
+
+
+Cool things to add:
+http://vincentgarreau.com/particles.js/
