@@ -4,3 +4,7 @@ http://colorhunt.co/
 http://uigarage.net/
 
 http://collectui.com
+
+
+Fonts:
+https://typ.io/
