@@ -15,3 +15,5 @@ http://vincentgarreau.com/particles.js/
 
 Navigation:
 https://github.com/VPenkov/okayNav
+
+Date picker: http://felicegattuso.com/projects/datedropper/
