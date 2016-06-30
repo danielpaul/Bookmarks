@@ -22,3 +22,6 @@ https://chmln.github.io/flatpickr/
 
 Video player:
 https://github.com/selz/plyr
+
+Background video/image:
+https://github.com/dvLden/Vidage
