@@ -25,3 +25,7 @@ https://github.com/selz/plyr
 
 Background video/image:
 https://github.com/dvLden/Vidage
+
+
+Background image gradient: 
+http://benhowdle.im/grade/
