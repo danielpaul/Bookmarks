@@ -6,6 +6,7 @@
 * http://www.pexels.com/
 * http://zoommyapp.com/
 * http://picjumbo.com/
+* https://stocksnap.io/
 
 
 
