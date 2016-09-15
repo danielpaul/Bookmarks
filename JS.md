@@ -29,3 +29,4 @@ https://github.com/dvLden/Vidage
 
 Background image gradient: 
 http://benhowdle.im/grade/
+Gradiant animation: https://sarcadass.github.io/granim.js/examples.html
