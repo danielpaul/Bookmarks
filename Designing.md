@@ -8,3 +8,7 @@ http://collectui.com
 
 Fonts:
 https://typ.io/
+
+
+Patterns:
+http://www.heropatterns.com/
