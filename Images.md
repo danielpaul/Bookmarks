@@ -8,7 +8,7 @@
 * http://zoommyapp.com/
 * http://picjumbo.com/
 * https://stocksnap.io/
-
+* https://burst.shopify.com/
 
 
 Videos:
