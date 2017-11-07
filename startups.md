@@ -1,2 +1,3 @@
-http://www.nameideasgenerator.com/
-http://startupcollections.com/
+* https://www.nameql.com/
+* http://www.nameideasgenerator.com/
+* http://startupcollections.com/
