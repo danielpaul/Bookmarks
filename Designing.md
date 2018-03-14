@@ -12,3 +12,6 @@ https://typ.io/
 
 Patterns:
 http://www.heropatterns.com/
+
+Logos:
+http://brandmark.io/
