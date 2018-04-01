@@ -12,3 +12,8 @@ Links to websites related to creating mockups
 
 # Placeholder Images
 * https://unsplash.it/
+
+# Apparel
+https://mediamodifier.com/category/apparel
+https://smartmockups.com/category/apparel/all
+https://mockupsjar.com/
