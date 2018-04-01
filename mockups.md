@@ -14,6 +14,6 @@ Links to websites related to creating mockups
 * https://unsplash.it/
 
 # Apparel
-https://mediamodifier.com/category/apparel
-https://smartmockups.com/category/apparel/all
-https://mockupsjar.com/
+* https://mediamodifier.com/category/apparel
+* https://smartmockups.com/category/apparel/all
+* https://mockupsjar.com/
