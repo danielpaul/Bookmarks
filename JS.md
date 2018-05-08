@@ -35,3 +35,6 @@ Gradiant animation: https://sarcadass.github.io/granim.js/examples.html
 https://www.adchsm.com/slidebars/
 
 Great tooltips: https://atomiks.github.io/tippyjs/
+
+
+Background blur brush effect: http://kamranahmed.info/brusher/
