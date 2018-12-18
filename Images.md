@@ -13,3 +13,6 @@
 
 Videos:
 http://www.coverr.co/
+
+
+online image resize: https://slide.ly/promo/image-resizer/
