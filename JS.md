@@ -38,3 +38,5 @@ Great tooltips: https://atomiks.github.io/tippyjs/
 
 
 Background blur brush effect: http://kamranahmed.info/brusher/
+
+Page popups: https://lunar.atomui.com/
