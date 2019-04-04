@@ -34,4 +34,4 @@ https://gallery.manypixels.co/
 
 
 
-https://www.checklist.design/?
+https://www.checklist.design/
