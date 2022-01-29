@@ -9,6 +9,8 @@
 * http://picjumbo.com/
 * https://stocksnap.io/
 * https://burst.shopify.com/
+* https://thenounproject.com
+* https://kaboompics.com
 
 
 Videos:
